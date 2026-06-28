@@ -96,7 +96,7 @@ To ensure Everything101 is organized and scalable, our articles are grouped into
 The repository is designed to scale to thousands of topics without clutter:
 - Every major content category has a dedicated parent directory.
 - Every topic resides in its own dedicated subfolder containing:
-  - `README.md` (the main article)
+  - `[topic-name].md` (the main article, e.g., `python-101.md`)
   - `assets/` (images, diagrams, references, and other assets)
 - No oversized directories or flat, unorganized markdown files are allowed. Everything must remain searchable, neat, and highly structured.
 

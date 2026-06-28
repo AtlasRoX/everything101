@@ -18,7 +18,7 @@ To support thousands of topics while staying highly organized and searchable, ar
 - [📁 arts-design-communication](file:///a:/everything101/arts-design-communication/README.md) – Art, Music Theory, Design, Architecture, and Writing.
 - [📁 daily-life-personal-growth](file:///a:/everything101/daily-life-personal-growth/README.md) – Careers, Productivity, Languages, Environment, and Health.
 
-Each topic has its own dedicated folder containing its `README.md` (the article) and an `assets/` directory (for diagrams, images, and reference logs).
+Each topic has its own dedicated folder containing its main article file named after the topic (e.g., `python-101.md` for Python 101) and an `assets/` directory (for diagrams, images, and references).
 
 ---
 
@@ -36,7 +36,7 @@ Please read the writing guidelines inside the [Project Brief](file:///a:/everyth
 ### 2. Create the Directory Structure
 1. Locate the correct category directory.
 2. Create a new folder named after your topic (e.g., `technology-engineering/docker/`).
-3. Create a `README.md` inside that folder and add any diagrams or images to an `assets/` subfolder.
+3. Create a `[topic-name].md` file named after your topic (e.g., `python-101.md`) inside that folder, and add any diagrams or images to an `assets/` subfolder.
 
 ---
 
