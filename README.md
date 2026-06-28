@@ -18,7 +18,7 @@ To support thousands of topics while staying highly organized and searchable, ar
 - [📁 arts-design-communication](file:///a:/everything101/arts-design-communication/README.md) – Art, Music Theory, Design, Architecture, and Writing.
 - [📁 daily-life-personal-growth](file:///a:/everything101/daily-life-personal-growth/README.md) – Careers, Productivity, Languages, Environment, and Health.
 
-Each topic has its own dedicated folder containing its main article file named after the topic (e.g., `python-101.md` for Python 101) and an `assets/` directory (for diagrams, images, and references).
+Each topic is written as a markdown file directly inside its corresponding category folder (e.g., `python-101.md` inside `technology-engineering/`). Any custom assets (like images or diagrams) go into a shared category assets directory (e.g., `technology-engineering/assets/python-101/`).
 
 ---
 
@@ -33,10 +33,10 @@ Please read the writing guidelines inside the [Project Brief](file:///a:/everyth
 - **Use Analogies:** Explain dry or complex concepts with real-world comparisons.
 - **Keep it Skimmable:** Use short sentences, brief paragraphs, and clear bullet points.
 
-### 2. Create the Directory Structure
+### 2. Add Your Article
 1. Locate the correct category directory.
-2. Create a new folder named after your topic (e.g., `technology-engineering/docker/`).
-3. Create a `[topic-name].md` file named after your topic (e.g., `python-101.md`) inside that folder, and add any diagrams or images to an `assets/` subfolder.
+2. Create your markdown file named after the topic (e.g., `technology-engineering/python-101.md`).
+3. If your article requires custom assets like diagrams or images, place them inside `[category-name]/assets/[topic-name]/` (e.g., `technology-engineering/assets/python-101/`).
 
 ---
 

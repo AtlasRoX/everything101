@@ -95,10 +95,9 @@ To ensure Everything101 is organized and scalable, our articles are grouped into
 ### Directory Architecture
 The repository is designed to scale to thousands of topics without clutter:
 - Every major content category has a dedicated parent directory.
-- Every topic resides in its own dedicated subfolder containing:
-  - `[topic-name].md` (the main article, e.g., `python-101.md`)
-  - `assets/` (images, diagrams, references, and other assets)
-- No oversized directories or flat, unorganized markdown files are allowed. Everything must remain searchable, neat, and highly structured.
+- Every topic is written as a markdown file directly inside its corresponding category directory (e.g., `technology-engineering/python-101.md`).
+- If a topic requires assets (like custom images or diagrams), they are stored in a shared category assets folder under `[category-name]/assets/[topic-name]/` (e.g., `technology-engineering/assets/python-101/`).
+- No oversized, unorganized markdown files at the root level are allowed. Everything must remain searchable, neat, and highly structured.
 
 ### Contribution Philosophy
 We welcome contributions from anyone! However, adding more information is not always an improvement. Every contribution must improve clarity. Removing confusion is our highest metric of success.

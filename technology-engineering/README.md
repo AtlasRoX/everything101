@@ -4,10 +4,10 @@ Welcome to the **Technology & Engineering** category of Everything101. This sect
 
 ## 📂 Topics in this Category
 
-*Topics will be added as subfolders here.* 
+*Topics will be added as files here.* 
 
 Current bootstrapped articles:
-- [📁 python](file:///a:/everything101/technology-engineering/python/python-101.md) – A friendly introduction to the fundamentals of Python programming.
+- [📄 python-101](file:///a:/everything101/technology-engineering/python-101.md) – A friendly introduction to the fundamentals of Python programming.
 
 ## 📌 Scope
 
