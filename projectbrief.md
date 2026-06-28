@@ -117,7 +117,7 @@ Every article must include a list of trusted references to support its claims:
 
 ### Phase 1: GitHub & Markdown Foundation
 - Establish the open-source GitHub repository.
-- Define markdown templates and editorial workflows.
+- Establish editorial guidelines and workflows.
 - Launch the initial set of core articles built with community contributions.
 
 ### Phase 2: Web Platform & Navigation

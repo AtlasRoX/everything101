@@ -33,10 +33,7 @@ Please read the writing guidelines inside the [Project Brief](file:///a:/everyth
 - **Use Analogies:** Explain dry or complex concepts with real-world comparisons.
 - **Keep it Skimmable:** Use short sentences, brief paragraphs, and clear bullet points.
 
-### 2. Follow the Template
-Use our standardized [Article Template](file:///a:/everything101/templates/article_template.md) to structure your new topic.
-
-### 3. Create the Directory Structure
+### 2. Create the Directory Structure
 1. Locate the correct category directory.
 2. Create a new folder named after your topic (e.g., `technology-engineering/docker/`).
 3. Create a `README.md` inside that folder and add any diagrams or images to an `assets/` subfolder.
