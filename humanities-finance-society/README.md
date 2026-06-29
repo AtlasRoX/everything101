@@ -12,6 +12,8 @@ Current bootstrapped portals & articles:
 - [📁 Psychology Portal](Psychology/README.md) – A comprehensive guide to the brain, mind, behavior, and mental health, linking all 27 articles.
 - [📁 Political Science Portal](Political%20Science/README.md) – A comprehensive guide to power, governments, systems, and ideologies, linking all 18 articles.
 - [📁 Economics Portal](Economics/README.md) – A comprehensive guide to choices, markets, macroeconomics, and development, linking all 21 articles.
+- [📁 Business Portal](Business/README.md) – A comprehensive guide to strategy, operations, marketing, and leadership, linking all 20 articles.
+- [📁 Finance Portal](Finance/README.md) – A comprehensive guide to money, personal finance, investing, and cryptocurrency, linking all 23 articles.
 
 
 ## 📌 Scope
