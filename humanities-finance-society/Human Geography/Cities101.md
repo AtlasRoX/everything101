@@ -7,45 +7,81 @@
 ## The Big Picture
 
 Why did humans start building cities?
-- For most of our history, humans lived as nomadic hunter-gatherers, moving constantly to find food. 
-- Around 10,000 years ago, the Agricultural Revolution allowed us to settle in one place. 
-- With food surpluses, not everyone had to farm. People could become merchants, priests, builders, and rulers. 
 
-The spaces where these non-farmers clustered became the world's first **cities**.
+For most of our history, humans lived as nomadic hunter-gatherers, moving constantly to find food. Around 10,000 years ago, the Agricultural Revolution enabled permanent settlement. With food surpluses, not everyone had to farm — people could become merchants, priests, builders, soldiers, and administrators. The spaces where these specialists clustered became the world's first **cities**.
 
-Today, cities are the engines of the global economy. To understand how they function, geographers look at **why** they are built in specific spots, and **how** they serve the surrounding regions.
+Today, cities are the engines of the global economy. They generate approximately **80% of global GDP** while occupying less than 2% of the Earth's land surface. Understanding *why* cities exist where they do, how they organize space internally, and how they serve surrounding regions is one of the most practical applications of geographic thinking.
 
-This article introduces urban hearths, the vital distinction between site and situation, and Central Place Theory.
+---
+
+## A Brief History of Urbanization
+
+- **First Cities (~3500–3000 BCE):** Uruk in Mesopotamia is considered one of the world's first true cities — a complex settlement with monumental architecture, writing, specialized trades, and a population of 40,000–80,000.
+- **Classical Antiquity:** Rome reached approximately 1 million people by 100 CE — the first city to do so. Maintaining that population required a vast empire of agricultural hinterlands, aqueducts, and trade networks.
+- **Medieval Decline (Europe):** After Rome's fall, many European cities shrank. Cities globally continued to grow in China, India, and the Islamic world during what Europeans call the "Dark Ages."
+- **Industrial Revolution (1760s–):** Steam power and factory production concentrated workers in industrial cities at unprecedented rates. Manchester grew from 25,000 to 300,000 people in 80 years — with devastating consequences for public health before sanitation infrastructure could catch up.
+- **20th Century:** The automobile and highway systems enabled suburban expansion, reshaping the relationship between cities, suburbs, and rural areas.
+- **21st Century:** Megacities in the Global South (Lagos, Dhaka, Mumbai, Manila) are now among the world's fastest-growing urban agglomerations.
 
 ---
 
 ## The Origins: Urban Hearths
 
-Cities did not appear everywhere at once. They first developed in five independent regions, called **urban hearths**, where agricultural surpluses allowed civilization to flourish:
-1. **Mesopotamia** (The Tigris and Euphrates rivers in modern Iraq).
-2. **The Nile River Valley** (Egypt).
-3. **The Indus River Valley** (Pakistan/India).
-4. **The Huang He Valley** (Yellow River in China).
-5. **Mesoamerica** (Mexico and Central America).
+Cities did not appear simultaneously worldwide. They first independently developed in five distinct regions, called **urban hearths**, where agricultural surpluses permitted social complexity:
+
+| Urban Hearth | Location | Key Features |
+|---|---|---|
+| **Mesopotamia** | Tigris-Euphrates (modern Iraq) | Writing, irrigation, first law codes |
+| **Nile Valley** | Egypt | Monumental construction, centralized governance |
+| **Indus Valley** | Pakistan/NW India | Grid-planned streets, sophisticated sanitation |
+| **Huang He Valley** | Yellow River, China | Oracle bones, bronze metallurgy |
+| **Mesoamerica** | Mexico/Central America | Calendars, pyramids, maize-based agriculture |
+
+From these hearths, urban ideas and technologies diffused outward — through trade, conquest, and cultural exchange — eventually producing the global urban network we know today.
 
 ---
 
 ## Site vs. Situation: Why Cities Exist Where They Do
 
-When analyzing why a city grew, geographers divide the reasons into two concepts:
+When analyzing why a city grew where it did, geographers use two complementary concepts:
 
-- **Site:** The physical and geographical characteristics of the land where a city is located.
-  - *Factors:* Soil quality, fresh water access, climate, elevation, and natural defenses.
-  - *Example:* Paris was founded on a physical island in the middle of the Seine River (easy to defend).
-- **Situation:** The location of a city relative to other places, trade routes, and resources.
-  - *Factors:* Proximity to trade hubs, transport networks, and resource areas.
-  - *Example:* Singapore grew because it sits at the narrowest point of the Strait of Malacca, the main shipping channel between India and China (ideal for trade).
+- **Site:** The physical and geographical characteristics of the land where a city is located — what the ground itself offers.
+  - Favorable site factors: Defensibility (islands, hilltops), fresh water access, flat land for construction, fertile soil nearby, natural harbors.
+  - *Example:* Paris was originally founded on the Île de la Cité, a natural island in the Seine — easy to defend and crossed by major routes.
+
+- **Situation:** A city's location relative to other places, resources, and transportation networks — what the city's *position* offers.
+  - Favorable situation factors: Control of a trade route, access to raw materials, position between major populations.
+  - *Example:* Singapore's extraordinary growth comes almost entirely from its *situation* — positioned at the narrowest point of the Strait of Malacca, the main shipping channel between the Indian Ocean and the Pacific. Whoever controls that strait controls a massive fraction of global trade.
+
+Many cities that had excellent sites in one technological era became disadvantaged as technology changed:
+- River-crossing cities thrived before bridges; once bridges were cheap, their advantage diminished.
+- Coastal cities thrived in the sail era; railroad hubs thrived in the rail era; highway intersections matter today.
+
+---
+
+## Internal City Structure: Urban Models
+
+How is space organized within a city? Urban geographers have developed several models:
+
+### 1. Concentric Zone Model (Burgess, 1925)
+The city is organized in concentric rings outward from a central business district (CBD):
+- Zone 1: Central Business District (offices, shops)
+- Zone 2: Transition Zone (older factories, low-income housing)
+- Zone 3: Working-class housing
+- Zone 4: Middle-class residential suburbs
+- Zone 5: Commuter zone
+
+### 2. Sector Model (Hoyt, 1939)
+Cities develop in wedge-shaped sectors radiating outward from the CBD along transportation corridors (railways, highways). High-income housing clusters along desirable corridors (near water, parks); industrial land follows rail lines.
+
+### 3. Multiple Nuclei Model (Harris & Ullman, 1945)
+Cities do not have a single center. They develop around multiple nodes — an airport zone, a university district, an industrial park, a shopping mall — each generating its own surrounding land uses. This model best describes modern polycentric metropolitan areas (like Los Angeles).
 
 ---
 
 ## Central Place Theory: How Cities Serve Space
 
-Why are large cities rare and far apart, while small towns are common and close together? Geographer Walter Christaller explained this in 1933 using **Central Place Theory**:
+Why are large cities rare and far apart, while small towns are common and close together? Geographer Walter Christaller explained this in 1933 with **Central Place Theory**:
 
 ```
                             ┌─────────────────────────┐
@@ -64,26 +100,63 @@ Why are large cities rare and far apart, while small towns are common and close 
 └──────────────────┘            └──────────────────┘            └──────────────────┘
 ```
 
-- **Central Place:** A settlement that provides services and goods to the surrounding population.
-- **Threshold:** The minimum number of people needed to support a business or service to keep it profitable. (e.g., a brain surgery hospital needs a threshold of millions of people; a gas station needs only a few hundred).
-- **Range:** The maximum distance people are willing to travel to purchase a service or good. (e.g., you will travel hours to buy a luxury car, but only five minutes to buy milk).
-- **The Result:** Large cities offer goods with high thresholds and ranges (hospitals, theaters), drawing people from far away. Small villages only offer goods with low thresholds and ranges (bread, gas), serving only local residents.
+- **Threshold:** The minimum population required to support a business or service profitably. A brain surgery hospital needs millions; a gas station needs a few hundred.
+- **Range:** The maximum distance people will travel to use a service. You drive hours for a specialist concert; you walk five minutes for milk.
+
+**The Result:** Large cities provide high-threshold, high-range services (specialized hospitals, concert halls, international airports) drawing customers from vast hinterlands. Small villages provide only low-threshold, low-range goods serving their immediate local area.
+
+---
+
+## The Primate City Concept
+
+In many countries, one city dominates — politically, economically, and culturally — far beyond its population proportion:
+
+- **Primate City:** A city at least twice as populous as the next-largest city in that country, and disproportionately dominant in economic and political functions.
+- *Examples:* Paris (France), Bangkok (Thailand), Lima (Peru), Buenos Aires (Argentina).
+
+Primate cities concentrate investment, talent, and infrastructure — both accelerating national development (agglomeration effects) and creating regional inequality (rural areas drain of talent and capital toward the primate city).
+
+---
+
+## Case Study: The Rise of Lagos — Africa's Megacity
+
+**The Context:** Lagos, Nigeria is Africa's largest city and one of the world's fastest-growing urban agglomerations. It sits on a cluster of islands and peninsulas at the edge of the Bight of Benin — a site initially chosen for its natural harbor for Atlantic trade.
+
+**The Growth:** Lagos grew from 300,000 people in 1950 to approximately **15–20 million** in the greater metropolitan area by 2024. If current growth rates continue, it may reach 35+ million by 2050 — potentially surpassing Tokyo as the world's largest urban agglomeration.
+
+**Drivers of Growth:**
+- Nigeria's immense oil wealth concentrated investment in Lagos.
+- Rural-to-urban migration driven by agricultural displacement, conflict in northern Nigeria, and the perception of economic opportunity.
+- High natural population growth rates.
+
+**The Challenge:** Lagos grew faster than infrastructure could accommodate:
+- Over **60% of residents** live in informal settlements (slums) without formal land title, reliable water, sanitation, or electricity.
+- Traffic congestion is legendary — some commuters spend 3–5 hours per day in traffic on roads built for a fraction of the current traffic volume.
+- Coastal flooding (made worse by sea-level rise, uncontrolled urban development on wetlands, and land subsidence) regularly inundates large sections of the city.
+
+**The Response:** Lagos state has invested significantly in infrastructure — the first light rail line opened in 2023; coastal protection projects are ongoing; some informal settlements have been upgraded. But the scale of need continues to outpace investment.
+
+**The Global Significance:** Lagos represents the frontier of the 21st century's defining geographic challenge: how do cities in the Global South absorb hundreds of millions of rural migrants, provide dignified living conditions, and build sustainable infrastructure — in real time?
 
 ---
 
 ## Key Terms
 
-- **City:** A dense, permanent settlement acting as a commercial and cultural hub.
-- **Site:** The physical characteristics of a city's land.
-- **Situation:** A city's location relative to surrounding networks.
-- **Central Place:** A hub providing services to its surrounding region.
-- **Threshold:** The minimum customer base required to support a service.
+- **City:** A dense, permanent settlement functioning as a commercial, cultural, and administrative hub.
+- **Site:** The physical characteristics of a city's specific location.
+- **Situation:** A city's position relative to surrounding networks, resources, and places.
+- **Urban Hearth:** An independent origin point for early urban civilization.
+- **Central Place:** A settlement providing goods and services to a surrounding hinterland.
+- **Threshold:** The minimum population required to support a service profitably.
 - **Range:** The maximum distance consumers will travel for a service.
+- **Primate City:** A city disproportionately dominant in a country's urban hierarchy.
+- **Concentric Zone Model:** The model of city structure as concentric rings expanding outward from the CBD.
+- **Multiple Nuclei Model:** The model of city structure with multiple independent activity centers.
 
 ---
 
 ## Further Reading
 
 - [Urbanization101](./Urbanization101.md) — The patterns of modern city expansion and sprawl
-- [Geography101](./Geography101.md) — The spatial themes that govern city locations
-- [RegionalGeography101](./RegionalGeography101.md) — How cities act as nodes for functional regions
+- [Geography101](./Geography101.md) — The spatial themes governing city locations
+- [RegionalGeography101](./RegionalGeography101.md) — How cities act as nodes within functional regions

@@ -14,7 +14,7 @@ The court system is a hierarchical ladder. Most cases never go to a jury trial; 
 
 The court system is the engine that applies the law to real life. It provides a peaceful alternative to violence, allowing disputes to be settled objectively by facts.
 
-This article introduces the hierarchy of courts, the difference between trial and appellate courts, the roles of judges and juries, and the power of judicial review.
+This article introduces the hierarchy of courts, the difference between trial and appellate courts, the appeals process, Alternative Dispute Resolution, and the power of judicial review.
 
 ---
 
@@ -60,25 +60,35 @@ If a party believes the trial court judge made a legal mistake, they can appeal 
 - **What happens:** No new witnesses, no juries, and no new evidence. Instead, a panel of judges reviews the written transcript of the trial and listens to lawyers argue about **legal rules** (e.g., *Did the trial judge allow illegal evidence?*).
 - **The Result:** Affirm (agree with trial court), Reverse (disagree), or Remand (send back for a new trial).
 
-### 3. The Supreme Court (Court of Last Resort)
-The highest court in the land. It typically has the power of **discretionary review**—it chooses which cases to hear, focusing only on major constitutional questions or resolving conflicts between lower courts.
+---
+
+## The Appeals Process: Debating Legal Rules
+
+When a case is appealed, it does not mean a "re-trial." The process is highly intellectual and structured:
+- **The Trial Record:** The court stenographer's word-for-word transcript of the trial, plus all marked evidence. This is the only factual record the appeals judges can look at.
+- **Appellate Briefs:** Written legal arguments submitted by the lawyers. The appellant (the person appealing) argues that a specific error of law occurred (e.g., the judge gave the jury the wrong instruction). The appellee (the winner of the trial) argues the judge was correct.
+- **Oral Arguments:** Lawyers stand before a panel of 3 or more judges. They have a limited time (often 15–30 minutes) to present their cases, but the judges constantly interrupt them to ask tough questions about legal philosophy and precedent.
 
 ---
 
-## The Roles: Judge vs. Jury
+## Alternative Dispute Resolution (ADR)
 
-- **The Judge:** An expert in the law. The judge ensures the trial follows the rules of evidence, instructs the jury on the law, and determines the sentence or penalty. In a **bench trial** (where the parties waive a jury), the judge acts as both judge and jury.
-- **The Jury:** A group of citizens (typically 12) who act as the **fact-finders**. They listen to the evidence, evaluate the credibility of witnesses, and decide the verdict.
+Going to court is expensive, stressful, and slow. Because of this, modern legal systems encourage parties to resolve disputes outside the courtroom using **Alternative Dispute Resolution (ADR)**:
+
+1. **Negotiation:** The simplest form. The parties and their lawyers talk directly to find a compromise settlement.
+2. **Mediation:** A neutral third party (the mediator) helps the disputing sides talk and find common ground. The mediator **cannot force a decision**; they only facilitate agreement.
+3. **Arbitration:** A private trial. The parties present evidence to a neutral third party (the arbitrator), who acts as a private judge. The arbitrator's decision is **binding** and enforceable by law. (Many companies include arbitration clauses in customer contracts to prevent lawsuits).
 
 ---
 
-## Judicial Review: The Ultimate Check
+### Case Study: *Marbury v. Madison* (1803)
 
-In many constitutional democracies, the highest court has the power of **Judicial Review**:
-
-> **Judicial Review:** The power of a court to examine the actions of the legislative, executive, and administrative arms of the government and determine whether such actions are consistent with the constitution.
-
-If a court finds a law unconstitutional, that law is instantly nullified. This power was famously established in the US in the landmark case *Marbury v. Madison* (1803).
+Where does the court get the power to strike down laws passed by Congress? It is not explicitly written in the US Constitution.
+- In 1801, outgoing President John Adams appointed several judges at the last minute. The new President, Thomas Jefferson, ordered his Secretary of State, James Madison, not to deliver the official papers to block the appointments.
+- One of the appointed judges, William Marbury, sued Madison, asking the Supreme Court to order Madison to deliver his commission.
+- Chief Justice John Marshall faced a dilemma: if he ordered Madison to deliver the papers, Jefferson would likely ignore the order, making the Court look powerless.
+- Instead, Marshall ruled that while Marbury was legally entitled to his commission, the law Congress had passed allowing Marbury to sue directly in the Supreme Court violated the Constitution. 
+- Marshall declared that **the Supreme Court has the power to declare laws unconstitutional**. By striking down a law, the Court gave up a minor power but established the massive principle of **Judicial Review**—declaring: *"It is emphatically the province and duty of the judicial department to say what the law is."*
 
 ---
 
@@ -90,6 +100,8 @@ If a court finds a law unconstitutional, that law is instantly nullified. This p
 - **Appellate Court:** A court that reviews appeals from lower trial courts.
 - **Verdict:** The formal finding of fact by a jury or judge.
 - **Judicial Review:** The power of courts to nullify unconstitutional government actions.
+- **Mediation:** Informal dispute resolution where a neutral party guides agreement.
+- **Arbitration:** Private, binding resolution of a dispute by a third-party referee.
 
 ---
 

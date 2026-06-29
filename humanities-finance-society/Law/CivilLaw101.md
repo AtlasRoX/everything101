@@ -14,7 +14,7 @@ In a legal system, this dispute is handled under **Civil Law**, specifically **T
 
 Unlike criminal law (where the state prosecutes you to punish a crime), civil law is about **making the injured party whole**. If you suffer harm or financial loss because of someone else's carelessness or breach of agreement, civil law provides a system to sue them for money (damages) to cover your medical bills, lost wages, and pain.
 
-This article introduces civil vs. criminal law, the elements of negligence (carelessness), and civil remedies.
+This article introduces civil vs. criminal law, the three types of torts, the elements of negligence, defenses to liability, and civil remedies.
 
 ---
 
@@ -28,13 +28,23 @@ The legal system splits disputes into two major domains:
 | **Purpose** | To compensate the victim and restore balance. | To punish the offender and deter future crimes. |
 | **Burden of Proof** | **Preponderance of the Evidence** (More likely than not / 51%+). | **Beyond a Reasonable Doubt** (Near certainty / 99%+). |
 | **Outcome / Remedy** | Financial compensation (damages) or injunctions. | Prison time, fines paid to state, or probation. |
-| **Example** | Contract breaches, slip-and-fall injuries. | Murder, theft, assault. |
+| **Example** | Contract breaches, slip-and-fall injuries. | Murder, theft, assault. (See [CriminalLaw101](./CriminalLaw101.md)). |
 
 ---
 
-## Tort Law: The Science of Negligence
+## The Three Branches of Tort Law
 
-A **tort** is a civil wrong that causes harm to another, leading to legal liability. The most common tort is **negligence** (carelessness). 
+A **tort** is a civil wrong that causes harm to another, leading to legal liability. Torts are divided into three categories based on the defendant's state of mind:
+
+1. **Negligence (Carelessness):** The most common tort. The defendant did not mean to cause harm, but failed to act with reasonable care (e.g., car accidents, slip-and-falls).
+2. **Intentional Torts:** The defendant intentionally committed an act that caused harm, even if they did not foresee the exact injury.
+  - *Examples:* Assault (threatening harm), Battery (physical contact), Defamation (lying to ruin someone's reputation), and Trespass.
+3. **Strict Liability (No-Fault Liability):** The defendant is held liable even if they took every possible precaution and had no intent to cause harm.
+  - *Applications:* Ultrahazardous activities (e.g., using dynamite for demolition) and defective product manufacturing (product liability). If a company sells a drug that has an unexpected toxic side effect, they are strictly liable.
+
+---
+
+## The Four Elements of Negligence
 
 To win a negligence lawsuit, the plaintiff must prove **four elements**:
 
@@ -61,10 +71,32 @@ To win a negligence lawsuit, the plaintiff must prove **four elements**:
  │           4. DAMAGES (Physical/financial harm)         │
  │ The plaintiff suffered actual harm (e.g., broken bones,│
  │ car damage)                                            │
+ └──────────────────────────┬─────────────────────────────┘
+                            ▼
+ ┌────────────────────────────────────────────────────────┐
+ │              LIABILITY ESTABLISHED                    │
  └────────────────────────────────────────────────────────┘
 ```
 
-If any of these four elements is missing (e.g., the driver was texting, but no accident occurred), there is no negligence liability.
+---
+
+## Defenses to Negligence
+
+Even if the plaintiff proves all four elements, the defendant can reduce or eliminate their liability using these defenses:
+
+- **Comparative Negligence:** The court assesses whether the plaintiff was also partly to blame. If the plaintiff is found 20% responsible (e.g., they were texting while walking and didn't see the wet floor), their damages are reduced by 20%.
+- **Assumption of Risk:** The defendant proves the plaintiff knew there was a danger but voluntarily chose to do it anyway (e.g., getting injured while skydiving or attending a baseball game where balls fly into the stands).
+
+---
+
+### Case Study: *Liebeck v. McDonald's Restaurants* (1994)
+
+The "McDonald's Hot Coffee Case" is often cited as an example of a frivolous lawsuit, but the facts reveal a different story:
+- Stella Liebeck, a 79-year-old woman, spilled a cup of McDonald's coffee on her lap while passenger in a parked car, suffering third-degree burns over 16% of her body, requiring skin grafts and eight days in the hospital.
+- Liebeck initially asked McDonald's for $20,000 to cover her medical bills. McDonald's refused, offering only $800.
+- During the trial, evidence showed that McDonald's kept its coffee at 180–190°F (82–88°C), which causes third-degree burns in under seven seconds. Documents showed McDonald's had received over 700 complaints of coffee burns previously but chose not to lower the temperature.
+- The jury found McDonald's liable for negligence. However, they found Stella Liebeck 20% responsible for the spill (**Comparative Negligence**). 
+- To punish McDonald's for ignoring 700 burn reports, the jury awarded Liebeck $2.7 million in **Punitive Damages** (equal to two days of McDonald's coffee sales), which the judge later reduced to $480,000. The case settled out of court, forcing fast-food chains worldwide to lower coffee temperatures.
 
 ---
 
@@ -75,7 +107,7 @@ When a plaintiff wins a civil case, the court orders the defendant to pay **dama
 - **Compensatory Damages:** Money designed to replace what the victim lost.
   - **Special Damages (Economic):** Measurable financial losses (medical bills, car repair costs, lost wages).
   - **General Damages (Non-Economic):** Non-measurable losses (pain and suffering, emotional distress).
-- **Punitive Damages:** Extra fines charged to punish the defendant for extreme, malicious behavior and to warn others (rarely awarded, except in cases of gross negligence, like a factory knowingly dumping toxic chemical waste).
+- **Punitive Damages:** Extra fines charged to punish the defendant for extreme, malicious behavior and to warn others. (See Stella Liebeck case above).
 
 ---
 
@@ -84,8 +116,9 @@ When a plaintiff wins a civil case, the court orders the defendant to pay **dama
 - **Civil Law:** Law governing private disputes between individuals.
 - **Tort:** A civil wrong causing injury or harm.
 - **Negligence:** Careless behavior resulting in accidental harm.
-- **Duty of Care:** The legal obligation to avoid harming others.
-- **Causation:** The direct causal link between breach of duty and injury.
+- **Strict Liability:** Liability that does not depend on actual negligence or intent to harm.
+- **Comparative Negligence:** A defense reducing damages based on the plaintiff's own share of blame.
+- **Assumption of Risk:** A defense arguing the plaintiff accepted the danger voluntarily.
 - **Compensatory Damages:** Money restoring the victim to their original financial position.
 - **Punitive Damages:** Penalties punishing extreme recklessness.
 
