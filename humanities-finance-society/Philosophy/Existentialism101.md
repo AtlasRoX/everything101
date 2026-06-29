@@ -21,23 +21,14 @@ Existentialists argue that **humans are different**:
 *   We are not built for a pre-designed purpose. We are born first (existence)—we arrive in the world, stand on our own two feet, and only then do we start to define who we are, what we value, and what our purpose is (essence) through our choices.
 
 ```mermaid
-mindmap
-  root((Existentialism))
-    Existence precedes Essence
-      No pre-made purpose
-      You define yourself
-    Absolute Freedom
-      Condemned to be free
-      Every choice is yours
-    Radical Responsibility
-      No excuses
-      You are the author of your life
-    Absurdity
-      Universe has no built-in meaning
-      You must create it
-    Authenticity
-      Living by your own values
-      Avoiding Bad Faith
+graph TD
+    Root((Existentialism)) --> Essence["1. Existence precedes Essence<br><i>No pre-made purpose<br>You define yourself</i>"]
+    Root --> Freedom["2. Absolute Freedom<br><i>Condemned to be free<br>Every choice is yours</i>"]
+    Root --> Responsibility["3. Radical Responsibility<br><i>No excuses<br>You are the author of your life</i>"]
+    Root --> Absurdity["4. Absurdity<br><i>Universe has no built-in meaning<br>You must create it</i>"]
+    Root --> Authenticity["5. Authenticity<br><i>Living by your own values<br>Avoiding Bad Faith</i>"]
+
+    style Root fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ---

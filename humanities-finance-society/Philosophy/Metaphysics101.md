@@ -49,20 +49,13 @@ Without the code (metaphysics), the gameplay (physics) cannot exist. Metaphysics
 Metaphysics is a broad umbrella that covers several foundational areas:
 
 ```mermaid
-mindmap
-  root((Metaphysics))
-    Ontology
-      The study of Being
-      What actually exists?
-    Identity and Change
-      What keeps a thing the same?
-      Ship of Theseus
-    Space and Time
-      Is time a river?
-      Does the past still exist?
-    Cosmology and Cause
-      Why does the universe exist?
-      First Cause argument
+graph TD
+    Root((Metaphysics)) --> Ontology["1. Ontology<br><i>The study of Being<br>What actually exists?</i>"]
+    Root --> Identity["2. Identity and Change<br><i>What keeps a thing the same?<br>Ship of Theseus</i>"]
+    Root --> SpaceTime["3. Space and Time<br><i>Is time a river?<br>Does the past still exist?</i>"]
+    Root --> Cosmology["4. Cosmology and Cause<br><i>Why does the universe exist?<br>First Cause argument</i>"]
+
+    style Root fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ### 1. Ontology (The Study of Being)

@@ -31,26 +31,15 @@ Just as our tongues evolved physical receptors to detect five basic tastes (swee
 According to this theory, humans have six primary moral taste buds:
 
 ```mermaid
-mindmap
-  root((Moral Taste Buds))
-    Care / Harm
-      Protecting the vulnerable
-      Empathy & Compassion
-    Fairness / Cheating
-      Justice & Rights
-      Reciprocity & Proportionality
-    Loyalty / Betrayal
-      Group solidarity
-      Patriotism & Teamwork
-    Authority / Subversion
-      Respect for hierarchy
-      Tradition & Order
-    Sanctity / Degradation
-      Purity & Cleanliness
-      Avoiding disgust/corruption
-    Liberty / Oppression
-      Resisting bullies
-      Freedom & Autonomy
+graph TD
+    Root((Moral Taste Buds)) --> Care["1. Care / Harm<br><i>Protecting the vulnerable<br>Empathy & Compassion</i>"]
+    Root --> Fairness["2. Fairness / Cheating<br><i>Justice & Rights<br>Reciprocity & Proportionality</i>"]
+    Root --> Loyalty["3. Loyalty / Betrayal<br><i>Group solidarity<br>Patriotism & Teamwork</i>"]
+    Root --> Authority["4. Authority / Subversion<br><i>Respect for hierarchy<br>Tradition & Order</i>"]
+    Root --> Sanctity["5. Sanctity / Degradation<br><i>Purity & Cleanliness<br>Avoiding disgust/corruption</i>"]
+    Root --> Liberty["6. Liberty / Oppression<br><i>Resisting bullies<br>Freedom & Autonomy</i>"]
+
+    style Root fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ### 1. Care vs. Harm (The Empathy Receptor)

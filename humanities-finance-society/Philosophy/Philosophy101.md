@@ -44,23 +44,20 @@ If your phone's OS is full of bugs, outdated rules, or virus files, your apps wi
 To organize our questioning, philosophers divide the subject into five primary branches:
 
 ```mermaid
-mindmap
-  root((Philosophy))
-    Logic
-      The Rules of Reasoning
-      How do we build solid arguments?
-    Epistemology
-      The Study of Knowledge
-      How do we know what is true?
-    Metaphysics
-      The Study of Reality
-      What is the nature of existence?
-    Ethics
-      The Study of Morality
-      How should we treat others?
-    Aesthetics
-      The Study of Art & Beauty
-      What makes something beautiful?
+graph TD
+    Root((Philosophy)) --> Logic[Logic]
+    Root --> Epistemology[Epistemology]
+    Root --> Metaphysics[Metaphysics]
+    Root --> Ethics[Ethics]
+    Root --> Aesthetics[Aesthetics]
+
+    Logic --> L1["The Rules of Reasoning<br><i>How do we build solid arguments?</i>"]
+    Epistemology --> Ep1["The Study of Knowledge<br><i>How do we know what is true?</i>"]
+    Metaphysics --> M1["The Study of Reality<br><i>What is the nature of existence?</i>"]
+    Ethics --> Et1["The Study of Morality<br><i>How should we treat others?</i>"]
+    Aesthetics --> Aes1["The Study of Art & Beauty<br><i>What makes something beautiful?</i>"]
+
+    style Root fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 1.  **Logic:** The rules of correct reasoning. It is the filter we use to separate good arguments from bad ones. (Start with [Logic 101](Logic101.md)).

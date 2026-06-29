@@ -58,20 +58,12 @@ When we ask what exists at the most fundamental level, philosophers split into t
 Ontologists organize existence into a hierarchy. We can categorize everything that "is" into three main buckets:
 
 ```mermaid
-mindmap
-  root((Kinds of Being))
-    Physical Being
-      Your body
-      The chair
-      Stars & Planets
-    Mental Being
-      Your thoughts
-      Dreams
-      Unicorns & Dragons
-    Abstract Being
-      Numbers e.g., 7
-      Triangles
-      Laws of Physics
+graph TD
+    Root((Kinds of Being)) --> Physical["1. Physical Being<br><i>Your body, chairs, stars & planets</i>"]
+    Root --> Mental["2. Mental Being<br><i>Your thoughts, dreams, unicorns & dragons</i>"]
+    Root --> Abstract["3. Abstract Being<br><i>Numbers, triangles, laws of physics</i>"]
+
+    style Root fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 *   **Physical Being:** Things made of matter and energy that exist in space and time. (e.g., your body, a rock, a phone).
