@@ -25,7 +25,7 @@ graph TD
     Scale -->|Balanced by| Logic[Logic & Rules of Inference]
     Scale -->|Deflected by| Bias[Emotional Bias & Wishful Thinking]
     
-    style Scale fill:#f9f,stroke:#333
+    style Scale fill:#f9f,stroke:#333,color:#000
 ```
 
 When we make a decision or choose a belief, our mind acts like a merchant weighing goods. 

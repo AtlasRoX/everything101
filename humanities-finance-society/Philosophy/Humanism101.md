@@ -26,8 +26,8 @@ graph TD
     SubH --> H2("Human Role: Agency, Progress, & Creation")
     SubH --> H3("Moral Code: Empathy, Welfare, & Flourishing here")
     
-    style SubA fill:#fdd,stroke:#333
-    style SubH fill:#dfd,stroke:#333
+    style SubA fill:#fdd,stroke:#333,color:#000
+    style SubH fill:#dfd,stroke:#333,color:#000
 ```
 
 When Galileo Galilei pointed his telescope at the night sky in 1609, he didn't check with the church to ask what he was allowed to see. He looked with his own eyes, recorded data, and used reason to conclude that the Earth revolves around the sun. 

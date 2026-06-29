@@ -29,7 +29,7 @@ graph TD
     SubM --> H2("Your memories & emotions")
     SubM --> H3("Your sense of 'Self'")
     
-    style SubP fill:#dfd,stroke:#333
+    style SubP fill:#dfd,stroke:#333,color:#000
 ```
 
 Think of your body and brain as the **Hardware** (the silicon chips, wires, battery, and screen of a smartphone). Your mind, thoughts, and feelings are the **Software** (the apps, operating system, and pixels displayed on the screen). 

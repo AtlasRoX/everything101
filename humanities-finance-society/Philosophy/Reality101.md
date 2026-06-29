@@ -24,8 +24,8 @@ graph TD
     User[Your Conscious Mind] -->|Interacts with| Interface("1. The Desktop Interface<br><i>(Sensory Perception)</i><br>Simplified blue file icon, easy to drag and drop.")
     Interface -->|Translates to| Hardware("2. The Computer Hardware<br><i>(Objective Physics)</i><br>Millions of transistors, logic gates, and shifting voltages.")
     
-    style Interface fill:#b3e5fc,stroke:#333
-    style Hardware fill:#f3f3f3,stroke:#333
+    style Interface fill:#b3e5fc,stroke:#333,color:#000
+    style Hardware fill:#f3f3f3,stroke:#333,color:#000
 ```
 
 How do you interact with this document?

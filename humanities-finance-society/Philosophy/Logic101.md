@@ -56,9 +56,9 @@ graph TD
     Test2 -->|At least one premise is false| Unsound[Unsound Argument]
     Test2 -->|All premises are true| Sound[Sound & True Argument]
     
-    style Sound fill:#dfd,stroke:#333
-    style Invalid fill:#fdd,stroke:#333
-    style Unsound fill:#fdd,stroke:#333
+    style Sound fill:#dfd,stroke:#333,color:#000
+    style Invalid fill:#fdd,stroke:#333,color:#000
+    style Unsound fill:#fdd,stroke:#333,color:#000
 ```
 
 ### 1. Validity (Testing the Structure)

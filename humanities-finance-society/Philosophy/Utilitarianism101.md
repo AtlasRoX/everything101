@@ -62,7 +62,7 @@ graph TD
     Util[Utilitarian Action] --> Act["1. Act Utilitarianism<br><i>(Case-by-Case Math)</i><br>Calculate the pleasure/pain for this specific act. (Might justify harvesting the organs)."]
     Util --> Rule["2. Rule Utilitarianism<br><i>(Systematic Rules)</i><br>Act according to rules that generally produce the best results over time. (e.g., 'Do not harvest organs without consent' keeps people trusting hospitals, saving more lives in the long run)."]
     
-    style Rule fill:#dfd,stroke:#333
+    style Rule fill:#dfd,stroke:#333,color:#000
 ```
 
 *   **Act Utilitarianism:** Apply the hedonic calculus to each individual case. (e.g., *"Will stealing this bread save a life right now?"*).

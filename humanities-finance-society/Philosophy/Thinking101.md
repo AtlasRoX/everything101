@@ -25,7 +25,7 @@ graph TD
     Conductor -->|System 1| Fast["Fast, Automatic Melody<br><i>(Habitual play, instant response)</i>"]
     Conductor -->|System 2| Slow["Slow, Deliberate Practice<br><i>(Reading sheet music, calculating notes)</i>"]
     
-    style Conductor fill:#f9f,stroke:#333
+    style Conductor fill:#f9f,stroke:#333,color:#000
 ```
 
 *   **The Instruments:** Your memories (strings), your senses (brass), your emotions (percussion), and your logical reasoning (woodwinds). They are all playing notes at the same time.

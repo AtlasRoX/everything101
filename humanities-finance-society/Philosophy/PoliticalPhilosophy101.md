@@ -48,8 +48,8 @@ graph TD
     Nature[Life in the State of Nature] --> Hobbes("1. Thomas Hobbes<br><i>(Dreadful & Violent)</i><br>Life is 'solitary, poor, nasty, brutish, and short.'<br><b>Need a strong Leviathan (King) to enforce order.</b>")
     Nature --> Locke("2. John Locke<br><i>(Mostly Peaceful, but Flawed)</i><br>We have natural rights (Life, Liberty, Property).<br><b>Need a limited government to act as a neutral judge.</b>")
     
-    style Hobbes fill:#fdd,stroke:#333
-    style Locke fill:#dfd,stroke:#333
+    style Hobbes fill:#fdd,stroke:#333,color:#000
+    style Locke fill:#dfd,stroke:#333,color:#000
 ```
 
 ### 1. Thomas Hobbes (The Grim View)

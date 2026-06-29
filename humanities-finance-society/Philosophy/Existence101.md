@@ -47,7 +47,7 @@ graph TD
     Exist --> Abstract("2. Abstract Existence<br><i>Exists outside Space & Time</i><br><b>(Numbers, Laws of Logic)</b>")
     Exist --> Imaginary("3. Imaginary/Intentional Existence<br><i>Exists only in a Mind</i><br><b>(Sherlock Holmes, Dragons)</b>")
     
-    style Exist fill:#f9f,stroke:#333
+    style Exist fill:#f9f,stroke:#333,color:#000
 ```
 
 1.  **Concrete Existence:** Things made of matter or energy that occupy a specific place in space and exist across time. You can touch them, measure them with physics, and they interact with other physical things (e.g., a rock, a tree, a photon of light).

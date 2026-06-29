@@ -23,8 +23,8 @@ graph TD
     TimeView[What is Time?] --> Presentism("1. Presentism<br><i>(The Spotlight)</i><br>Only the present moment is real. The past has ceased to be, and the future is not yet real.")
     TimeView --> Eternalism("2. Eternalism<br><i>(The Film Strip)</i><br>Past, present, and future are all equally real. Time is a block layout.")
     
-    style Presentism fill:#fdd,stroke:#333
-    style Eternalism fill:#dfd,stroke:#333
+    style Presentism fill:#fdd,stroke:#333,color:#000
+    style Eternalism fill:#dfd,stroke:#333,color:#000
 ```
 
 ### 1. The Spotlight (Presentism / A-Theory)

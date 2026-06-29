@@ -24,8 +24,8 @@ graph TD
     Test -->|Yes: It works| Tool["Useful Tool<br><i>(Keep it in your toolkit)</i><br>It helps you navigate life, solve problems, or feel better."]
     Test -->|No: It is useless| Trash["Useless Idea<br><i>(Discard or update it)</i><br>It makes no difference to your actions or outcomes."]
     
-    style Tool fill:#dfd,stroke:#333
-    style Trash fill:#fdd,stroke:#333
+    style Tool fill:#dfd,stroke:#333,color:#000
+    style Trash fill:#fdd,stroke:#333,color:#000
 ```
 
 If you are lost in a forest, you don't ask: *"Is this screwdriver blade 'beautiful' or 'inherently true' in an abstract sense?"* You ask: *"Does this blade turn the screw? Does the knife blade cut the branches?"* 

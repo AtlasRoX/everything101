@@ -55,7 +55,7 @@ graph TD
     Root --> SpaceTime["3. Space and Time<br><i>Is time a river?<br>Does the past still exist?</i>"]
     Root --> Cosmology["4. Cosmology and Cause<br><i>Why does the universe exist?<br>First Cause argument</i>"]
 
-    style Root fill:#f9f,stroke:#333,stroke-width:4px
+    style Root fill:#f9f,stroke:#333,stroke-width:4px,color:#000
 ```
 
 ### 1. Ontology (The Study of Being)

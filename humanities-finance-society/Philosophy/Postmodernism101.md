@@ -47,7 +47,7 @@ graph TD
     Stage2 --> Stage3("3. Mask of Absence<br><i>(Pretends there is reality)</i><br>A computer-generated 3D apple.")
     Stage3 --> Stage4("4. Pure Simulacrum<br><i>(No relation to any reality)</i><br>The Apple Logo - a brand symbol.")
     
-    style Stage4 fill:#dfd,stroke:#333
+    style Stage4 fill:#dfd,stroke:#333,color:#000
 ```
 
 1.  **Stage 1 (Faithful Reflection):** The sign represents a clear reality. (e.g., a hand-drawn map of a forest).

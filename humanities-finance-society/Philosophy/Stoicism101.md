@@ -26,8 +26,8 @@ graph TD
     Effort -->|The Stoic Goal| SuccessA("aiming as perfectly as possible")
     Wind -->|The External Outcome| SuccessB("whether the arrow hits the target")
     
-    style SuccessA fill:#dfd,stroke:#333
-    style SuccessB fill:#fdd,stroke:#333
+    style SuccessA fill:#dfd,stroke:#333,color:#000
+    style SuccessB fill:#fdd,stroke:#333,color:#000
 ```
 
 An archer does everything in their power to hit the target: they select the best bow, polish their arrows, calculate the distance, aim carefully, and release the string (Effort). 
@@ -52,8 +52,8 @@ graph TD
     Test -->|Yes| Control["Act on it! <br><i>(Your thoughts, actions, habits)</i>"]
     Test -->|No| Accept["Accept it & Let it go!<br><i>(Traffic, weather, other people's opinions)</i>"]
     
-    style Control fill:#dfd,stroke:#333
-    style Accept fill:#b3e5fc,stroke:#333
+    style Control fill:#dfd,stroke:#333,color:#000
+    style Accept fill:#b3e5fc,stroke:#333,color:#000
 ```
 
 If it is outside your control (like the weather, the economy, or what other people say about you), a Stoic says: *"It is nothing to me."* You cannot change it, so spending energy worrying about it is irrational.

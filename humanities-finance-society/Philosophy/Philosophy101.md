@@ -57,7 +57,7 @@ graph TD
     Ethics --> Et1["The Study of Morality<br><i>How should we treat others?</i>"]
     Aesthetics --> Aes1["The Study of Art & Beauty<br><i>What makes something beautiful?</i>"]
 
-    style Root fill:#f9f,stroke:#333,stroke-width:4px
+    style Root fill:#f9f,stroke:#333,stroke-width:4px,color:#000
 ```
 
 1.  **Logic:** The rules of correct reasoning. It is the filter we use to separate good arguments from bad ones. (Start with [Logic 101](Logic101.md)).

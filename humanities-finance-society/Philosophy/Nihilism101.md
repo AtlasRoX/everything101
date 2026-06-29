@@ -21,8 +21,8 @@ graph TD
     Nihilism[The Game Has No Save File] -->|Reaction A: Passive Nihilism| Passive("Give Up Playing<br><i>'Why bother building stats or exploring if it's all wiped?'</i>")
     Nihilism -->|Reaction B: Active Nihilism| Active("Enjoy the Gameplay<br><i>'It doesn't need to last forever to be fun right now!'</i>")
     
-    style Active fill:#dfd,stroke:#333
-    style Passive fill:#fdd,stroke:#333
+    style Active fill:#dfd,stroke:#333,color:#000
+    style Passive fill:#fdd,stroke:#333,color:#000
 ```
 
 How do you react to this news?

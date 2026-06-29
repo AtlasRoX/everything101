@@ -63,7 +63,7 @@ graph TD
     Root --> Mental["2. Mental Being<br><i>Your thoughts, dreams, unicorns & dragons</i>"]
     Root --> Abstract["3. Abstract Being<br><i>Numbers, triangles, laws of physics</i>"]
 
-    style Root fill:#f9f,stroke:#333,stroke-width:4px
+    style Root fill:#f9f,stroke:#333,stroke-width:4px,color:#000
 ```
 
 *   **Physical Being:** Things made of matter and energy that exist in space and time. (e.g., your body, a rock, a phone).

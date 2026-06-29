@@ -24,7 +24,7 @@ graph TD
     Guard -->|Lacks proof| Suspend[Waiting Room / Suspend Judgment]
     Guard -->|Verified credentials| Allow[Enter Castle / Believe]
     
-    style Guard fill:#f9f,stroke:#333
+    style Guard fill:#f9f,stroke:#333,color:#000
 ```
 
 Your beliefs are the residents living inside the castle. 

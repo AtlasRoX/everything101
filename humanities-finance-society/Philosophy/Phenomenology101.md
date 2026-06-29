@@ -24,7 +24,7 @@ graph TD
     Coffee[Object: Coffee Cup] --> ThirdPerson("1. Third-Person View<br><i>(Science / Physics)</i><br>Measuring molecules, temperature, and light waves.")
     Coffee --> FirstPerson("2. First-Person View<br><i>(Phenomenology)</i><br>Describing the warmth, aroma, and anticipation.")
     
-    style Coffee fill:#f9f,stroke:#333
+    style Coffee fill:#f9f,stroke:#333,color:#000
 ```
 
 Phenomenology argues that the first-person perspective is where all our knowledge starts. Before a scientist can measure a light wave with a machine, they must first *experience* looking at the screen of the machine. Consciousness is the canvas upon which everything else is painted.

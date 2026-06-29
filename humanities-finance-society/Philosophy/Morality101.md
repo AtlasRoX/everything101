@@ -39,7 +39,7 @@ graph TD
     Root --> Sanctity["5. Sanctity / Degradation<br><i>Purity & Cleanliness<br>Avoiding disgust/corruption</i>"]
     Root --> Liberty["6. Liberty / Oppression<br><i>Resisting bullies<br>Freedom & Autonomy</i>"]
 
-    style Root fill:#f9f,stroke:#333,stroke-width:4px
+    style Root fill:#f9f,stroke:#333,stroke-width:4px,color:#000
 ```
 
 ### 1. Care vs. Harm (The Empathy Receptor)
@@ -99,9 +99,9 @@ graph TD
     Level3["<b>Level 3: Post-Conventional</b><br>(Universal Principles)"] --> Stage5["Stage 5: Social Contract<br><i>'The law should be changed, but we must respect agreements.'</i>"]
     Level3 --> Stage6["Stage 6: Universal Ethical Principles<br><i>'Saving a human life is an absolute moral duty.'</i>"]
     
-    style Level1 fill:#fdd,stroke:#333
-    style Level2 fill:#ddf,stroke:#333
-    style Level3 fill:#dfd,stroke:#333
+    style Level1 fill:#fdd,stroke:#333,color:#000
+    style Level2 fill:#ddf,stroke:#333,color:#000
+    style Level3 fill:#dfd,stroke:#333,color:#000
 ```
 
 1.  **Pre-Conventional Level (Children & Self-Interest):** Right and wrong are defined purely by consequences to yourself. You obey rules to avoid punishment (Stage 1) or to gain concrete rewards (Stage 2).

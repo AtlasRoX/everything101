@@ -47,9 +47,9 @@ graph LR
     
     Hard --> Compat --> Libertarian
     
-    style Hard fill:#fdd,stroke:#333
-    style Compat fill:#ffd,stroke:#333
-    style Libertarian fill:#dfd,stroke:#333
+    style Hard fill:#fdd,stroke:#333,color:#000
+    style Compat fill:#ffd,stroke:#333,color:#000
+    style Libertarian fill:#dfd,stroke:#333,color:#000
 ```
 
 ### 1. Hard Determinism (Freedom is an Illusion)

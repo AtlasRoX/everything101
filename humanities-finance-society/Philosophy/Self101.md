@@ -57,8 +57,8 @@ graph TD
     Self[Does the Self Exist?] -->|Yes: Solid Core| Cartesian("1. The Cartesian Ego<br><i>(Substance Theory)</i><br>Descartes: The self is a unified, thinking substance (the soul) that remains identical across time.")
     Self -->|No: Collection only| Hume("2. Bundle Theory<br><i>(No-Self Theory)</i><br>Hume & Buddhism: The self is just a constantly shifting bundle of perceptions. There is no core controller.")
     
-    style Cartesian fill:#dfd,stroke:#333
-    style Hume fill:#fdd,stroke:#333
+    style Cartesian fill:#dfd,stroke:#333,color:#000
+    style Hume fill:#fdd,stroke:#333,color:#000
 ```
 
 ### 1. The Cartesian Ego (Substance Theory)

@@ -23,9 +23,9 @@ graph TD
     Truth --> Coh("2. Coherence Theory<br><i>(The Puzzle Piece)</i><br>A statement is true if it fits perfectly into our network of other beliefs.")
     Truth --> Prag("3. Pragmatic Theory<br><i>(The Tool)</i><br>A statement is true if believing it leads to useful, practical results.")
     
-    style Corr fill:#b3e5fc,stroke:#333
-    style Coh fill:#ffd54f,stroke:#333
-    style Prag fill:#a5d6a7,stroke:#333
+    style Corr fill:#b3e5fc,stroke:#333,color:#000
+    style Coh fill:#ffd54f,stroke:#333,color:#000
+    style Prag fill:#a5d6a7,stroke:#333,color:#000
 ```
 
 ### 1. The Correspondence Theory (The Lock and Key)

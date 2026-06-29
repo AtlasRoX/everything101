@@ -19,8 +19,8 @@ graph TD
     SpaceView[What is Space?] --> Newton("1. Absolute Space<br><i>(The Storage Box)</i><br>Newton: Space is a real, independent container. The box exists even if it is completely empty.")
     SpaceView --> Leibniz("2. Relational Space<br><i>(The Relational Grid)</i><br>Leibniz: Space is just the measurement of relationships. No objects = no grid.")
     
-    style Newton fill:#fdd,stroke:#333
-    style Leibniz fill:#dfd,stroke:#333
+    style Newton fill:#fdd,stroke:#333,color:#000
+    style Leibniz fill:#dfd,stroke:#333,color:#000
 ```
 
 ### 1. The Storage Box (Newton's Absolute Space)

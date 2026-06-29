@@ -28,7 +28,7 @@ graph TD
     Root --> Absurdity["4. Absurdity<br><i>Universe has no built-in meaning<br>You must create it</i>"]
     Root --> Authenticity["5. Authenticity<br><i>Living by your own values<br>Avoiding Bad Faith</i>"]
 
-    style Root fill:#f9f,stroke:#333,stroke-width:4px
+    style Root fill:#f9f,stroke:#333,stroke-width:4px,color:#000
 ```
 
 ---

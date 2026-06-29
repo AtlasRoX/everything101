@@ -25,7 +25,7 @@ graph TD
     Bowl --> Efficient["3. Efficient Cause<br><i>Who or what made it?</i><br><b>(The Potter's hands & wheel)</b>"]
     Bowl --> Final["4. Final Cause<br><i>What is its purpose?</i><br><b>(To hold soup or cereal)</b>"]
     
-    style Bowl fill:#f9f,stroke:#333
+    style Bowl fill:#f9f,stroke:#333,color:#000
 ```
 
 1.  **The Material Cause (The Matter):** What is the object made of? 

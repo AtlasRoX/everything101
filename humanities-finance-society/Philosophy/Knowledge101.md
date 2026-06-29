@@ -51,10 +51,10 @@ graph TD
     Info -->|Applied to action| Know
     Know -->|Values & Judgments added| Wis
     
-    style Data fill:#f3f3f3,stroke:#333
-    style Info fill:#e1f5fe,stroke:#333
-    style Know fill:#b3e5fc,stroke:#333
-    style Wis fill:#4fc3f7,stroke:#333
+    style Data fill:#f3f3f3,stroke:#333,color:#000
+    style Info fill:#e1f5fe,stroke:#333,color:#000
+    style Know fill:#b3e5fc,stroke:#333,color:#000
+    style Wis fill:#4fc3f7,stroke:#333,color:#000
 ```
 
 1.  **Data (Raw Facts):** Isolated numbers, symbols, or observations without context. (e.g., *"101"*).

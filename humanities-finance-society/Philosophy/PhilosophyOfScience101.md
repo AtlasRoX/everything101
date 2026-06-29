@@ -57,8 +57,8 @@ graph TD
     Theory[Is the Theory Scientific?] -->|Yes| Falsifiable[It makes specific predictions that CAN be proven wrong by observation]
     Theory -->|No| NonFalsifiable[It is framed so that any observation can be twisted to support it]
     
-    style Falsifiable fill:#dfd,stroke:#333
-    style NonFalsifiable fill:#fdd,stroke:#333
+    style Falsifiable fill:#dfd,stroke:#333,color:#000
+    style NonFalsifiable fill:#fdd,stroke:#333,color:#000
 ```
 
 ---
