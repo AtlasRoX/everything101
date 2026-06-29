@@ -4,7 +4,10 @@ Welcome to the **Humanities, Finance & Society** category of Everything101. This
 
 ## 📂 Topics in this Category
 
-*Topics will be added as subfolders here.*
+*Topics will be added as files here.*
+
+Current bootstrapped portals & articles:
+- [📁 Philosophy Portal](Philosophy/README.md) – A comprehensive guide to the study of reality, knowledge, mind, and values, linking all 42 articles.
 
 ## 📌 Scope
 

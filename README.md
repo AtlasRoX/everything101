@@ -4,7 +4,7 @@
 
 Everything101 is an open-source knowledge platform designed to make learning any subject fast, simple, and enjoyable. Unlike typical documentation or massive encyclopedias, we focus on **knowledge compression**—helping readers grasp the core concepts of a topic from first principles in a single sitting.
 
-To learn more about our target audience, vision, and core philosophy, please check out the [Project Brief](file:///a:/everything101/projectbrief.md).
+To learn more about our target audience, vision, and core philosophy, please check out the [Project Brief](projectbrief.md).
 
 ---
 
@@ -12,11 +12,11 @@ To learn more about our target audience, vision, and core philosophy, please che
 
 To support thousands of topics while staying highly organized and searchable, articles are grouped into five themed directories:
 
-- [📁 technology-engineering](file:///a:/everything101/technology-engineering/README.md) – Programming, AI, Cloud, Operating Systems, Databases, Cybersecurity, and more.
-- [📁 sciences-mathematics](file:///a:/everything101/sciences-mathematics/README.md) – Calculus, Physics, Chemistry, Biology, Medicine, Astronomy, and Data Science.
-- [📁 humanities-finance-society](file:///a:/everything101/humanities-finance-society/README.md) – Economics, Finance, Psychology, History, Philosophy, and Law.
-- [📁 arts-design-communication](file:///a:/everything101/arts-design-communication/README.md) – Art, Music Theory, Design, Architecture, and Writing.
-- [📁 daily-life-personal-growth](file:///a:/everything101/daily-life-personal-growth/README.md) – Careers, Productivity, Languages, Environment, and Health.
+- [📁 technology-engineering](technology-engineering/README.md) – Programming, AI, Cloud, Operating Systems, Databases, Cybersecurity, and more.
+- [📁 sciences-mathematics](sciences-mathematics/README.md) – Calculus, Physics, Chemistry, Biology, Medicine, Astronomy, and Data Science.
+- [📁 humanities-finance-society](humanities-finance-society/README.md) – Economics, Finance, Psychology, History, Philosophy, and Law.
+- [📁 arts-design-communication](arts-design-communication/README.md) – Art, Music Theory, Design, Architecture, and Writing.
+- [📁 daily-life-personal-growth](daily-life-personal-growth/README.md) – Careers, Productivity, Languages, Environment, and Health.
 
 Each topic is written as a markdown file directly inside its corresponding category folder (e.g., `python-101.md` inside `technology-engineering/`). Any custom assets (like images or diagrams) go into a shared category assets directory (e.g., `technology-engineering/assets/python-101/`).
 
@@ -27,7 +27,7 @@ Each topic is written as a markdown file directly inside its corresponding categ
 We welcome contributions from everyone! Our highest success metric is **removing confusion**, not just adding information.
 
 ### 1. Read our Editorial Guidelines
-Please read the writing guidelines inside the [Project Brief](file:///a:/everything101/projectbrief.md#L57) before starting:
+Please read the writing guidelines inside the [Project Brief](projectbrief.md#L57) before starting:
 - **Beginner-First:** Assume zero prior specialized background knowledge.
 - **Explain Before Defining:** Introduce concepts in simple terms before dropping formal jargon.
 - **Use Analogies:** Explain dry or complex concepts with real-world comparisons.
