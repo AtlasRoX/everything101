@@ -10,6 +10,8 @@ Current bootstrapped portals & articles:
 - [📁 Philosophy Portal](Philosophy/README.md) – A comprehensive guide to the study of reality, knowledge, mind, and values, linking all 42 articles.
 - [📁 History Portal](History/README.md) – A comprehensive guide to civilization, revolutions, and world conflicts, linking all 29 articles.
 - [📁 Psychology Portal](Psychology/README.md) – A comprehensive guide to the brain, mind, behavior, and mental health, linking all 27 articles.
+- [📁 Political Science Portal](Political%20Science/README.md) – A comprehensive guide to power, governments, systems, and ideologies, linking all 18 articles.
+- [📁 Economics Portal](Economics/README.md) – A comprehensive guide to choices, markets, macroeconomics, and development, linking all 21 articles.
 
 
 ## 📌 Scope
