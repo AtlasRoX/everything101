@@ -14,6 +14,7 @@ Current bootstrapped portals & articles:
 - [📁 Economics Portal](Economics/README.md) – A comprehensive guide to choices, markets, macroeconomics, and development, linking all 21 articles.
 - [📁 Business Portal](Business/README.md) – A comprehensive guide to strategy, operations, marketing, and leadership, linking all 20 articles.
 - [📁 Finance Portal](Finance/README.md) – A comprehensive guide to money, personal finance, investing, and cryptocurrency, linking all 23 articles.
+- [📁 Law Portal](Law/README.md) – A comprehensive guide to legal systems, civil disputes, public regulation, and human rights, linking all 15 articles.
 
 
 ## 📌 Scope
